@@ -4,6 +4,12 @@
 </p>
 -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&center=true&width=435&lines=Welcome+my+github" alt="Typing SVG" /></a>
+
+<div style="display:flex;padding:5px">
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=MikeColeone&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeColeone&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<div/>
+
 <!-- 各种技术栈和工具等图标 -->
 &emsp;&emsp;
 ![Boot](https://img.shields.io/badge/Boot-white?logo=springboot&labelColor=white&color=%236DB33F)
@@ -42,12 +48,6 @@
 ![Linux](https://img.shields.io/badge/Linux-white?logo=linux&logoColor=blue&labelColor=white&color=blue)
 ![hexo](https://img.shields.io/badge/hexo-white?logo=hexo)
 ![Yarn](https://img.shields.io/badge/Yarn-white?logo=yarn&logoColor=%232C8EBB&labelColor=white&color=%232C8EBB)
-
-<div style="display:flex;padding:5px">
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=MikeColeone&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeColeone&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<div/>
-
 
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=MikeColeone&theme=github-compact&hide_border=true&area=true" />
