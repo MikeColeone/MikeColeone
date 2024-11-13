@@ -53,7 +53,7 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=MikeColeone&theme=github-compact&hide_border=true&area=true" />
 
 <!-- 奖杯 -->
-<div><img src="https://github-profile-trophy.vercel.app/?username=MikeColeone&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=MikeColeone&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img width="200%" src="https://img2.imgtp.com/2024/04/03/WS7f3suw.gif" />
 
