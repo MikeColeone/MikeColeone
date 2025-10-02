@@ -1,9 +1,3 @@
-<!-- 顶部动效标题，保持原来，调整尺寸和居中 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&&section=header&text=Mike&fontSize=90&fontAlign=50&fontAlignY=30&desc=HI&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Mike waving" />
-</p>
-
-<!-- 打字动画居中显示 -->
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&center=true&width=450&lines=Welcome+to+my+GitHub" alt="Typing SVG" />
