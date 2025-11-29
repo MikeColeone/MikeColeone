@@ -3,12 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&center=true&width=450&lines=Welcome+to+my+GitHub" alt="Typing SVG" />
   </a>
 </p>
-<div align="center" style="display: flex; justify-content: center; gap: 30px; margin: 20px 0;">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=MikeColeone&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeColeone&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" alt="Top Languages" />
-</div>
-
-<p align="center" style="margin: 20px 0 10px;">
+<p style="margin: 20px 0 10px;">
   <img src="https://img.shields.io/badge/Boot-white?logo=springboot&labelColor=white&color=%236DB33F" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Cloud-white?logo=spring&labelColor=white&color=%236DB33F" alt="Spring Cloud" />
   <img src="https://img.shields.io/badge/maven-%23C71A36?logo=apache%20maven&logoColor=%23C71A36&labelColor=white" alt="Maven" />
