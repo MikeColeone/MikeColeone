@@ -48,10 +48,5 @@
   <img src="https://img.shields.io/badge/Linux-white?logo=linux&logoColor=blue&labelColor=white&color=blue" alt="Linux" />
   <img src="https://img.shields.io/badge/hexo-white?logo=hexo" alt="Hexo" />
   <img src="https://img.shields.io/badge/Yarn-white?logo=yarn&logoColor=%232C8EBB&labelColor=white&color=%232C8EBB" alt="Yarn" />
-
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-profile-trophy.vercel.app/?username=MikeColeone&theme=onedark" alt="GitHub Trophy" />
-  </a>
 </p>
 
