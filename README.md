@@ -1,8 +1,5 @@
-<p align="center">
-  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&center=true&width=450&lines=Welcome+to+my+GitHub" alt="Typing SVG" />
-  </a>
-</p>
+# 🧭 Full-Stack Developer — Java × Frontend
+
 <p style="margin: 20px 0 10px;">
   <img src="https://img.shields.io/badge/Boot-white?logo=springboot&labelColor=white&color=%236DB33F" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Cloud-white?logo=spring&labelColor=white&color=%236DB33F" alt="Spring Cloud" />
@@ -51,15 +48,6 @@
 </p>
 
 
-# 🧭 Full-Stack Developer — Java × Frontend
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black" />
-</div>
 
 ---
 
@@ -116,7 +104,7 @@
 
 ## 🎨 Featured Projects
 
-
+---
 
 ## 📬 Connect
 
