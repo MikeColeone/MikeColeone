@@ -48,10 +48,6 @@
   <img src="https://img.shields.io/badge/Linux-white?logo=linux&logoColor=blue&labelColor=white&color=blue" alt="Linux" />
   <img src="https://img.shields.io/badge/hexo-white?logo=hexo" alt="Hexo" />
   <img src="https://img.shields.io/badge/Yarn-white?logo=yarn&logoColor=%232C8EBB&labelColor=white&color=%232C8EBB" alt="Yarn" />
-  
-<div style="margin: 30px 0;">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=MikeColeone&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</div>
 
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
