@@ -50,3 +50,77 @@
   <img src="https://img.shields.io/badge/Yarn-white?logo=yarn&logoColor=%232C8EBB&labelColor=white&color=%232C8EBB" alt="Yarn" />
 </p>
 
+
+# 🧭 Full-Stack Developer — Java × Frontend
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black" />
+</div>
+
+---
+
+## 🧩 About Me
+
+⚙️ 全栈工程师，专注于 **高可扩展后端 + 高体验前端**
+🎯 擅长构建从接口到 UI 一体打通的完整业务
+🧠 关注领域：架构设计、性能优化、工程化、可观测性
+🌐 追求代码的可读性、可演进性与可维护性
+
+---
+
+## 🛠️ Tech Stack
+
+### **Backend**
+
+* Java / JVM
+* Spring Boot, Spring Cloud
+* MySQL / PostgreSQL / Redis
+* Docker / K8s / Linux
+* 实战经验：接口规范化、DDD 分层、MVC 架构、分布式服务治理
+
+### **Frontend**
+
+* TypeScript / ESNext
+* Vue / React / Vite
+* TailwindCSS / Radix / UnoCSS
+* 组件设计、性能优化、动效构建
+
+### **DevOps & Engineering**
+
+* GitHub Actions / CI-CD
+* 单元测试（JUnit、Vitest）
+* 接口 Mock / E2E 测试
+
+---
+
+## 📐 Architecture Mindset
+
+> 写易懂的代码。
+> 做可流动的架构。
+> 让系统能长期进化，而不是勉强存活。
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+## 🎨 Featured Projects
+
+
+
+## 📬 Connect
+
+📧 Email：coleonemike@gmail.com
+💼 Blog: https://blog.csdn.net/2503_90377662?spm=1000.2115.3001.5343
+
+
