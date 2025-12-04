@@ -59,6 +59,3 @@
   </a>
 </p>
 
-<p style="margin-top: 20px;">
-  <img width="60%" src="https://img2.imgtp.com/2024/04/03/WS7f3suw.gif" alt="Cool Animation" />
-</p>
